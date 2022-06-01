@@ -1,0 +1,14 @@
+input[type="submit"]{
+  margin-left: 55%;
+  display: inline;
+}
+td{
+  width: auto;
+}
+th{
+  width: auto;
+}
+
+tr:hover{
+  background-color: rgb(158, 156, 156);
+}
